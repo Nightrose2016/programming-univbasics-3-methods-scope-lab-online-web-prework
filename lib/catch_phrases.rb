@@ -13,6 +13,6 @@ def link
   puts phrase
 end
 
-def darksouls (phrase)
+def any_phrase (phrase)
   puts #{phrase}
 end
