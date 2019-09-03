@@ -13,7 +13,7 @@ def link
   puts phrase
 end
 
-def darksouls
+def darksouls (phrase)
   phrase = "Do A Barrel Roll\n"
   puts phrase
 end
