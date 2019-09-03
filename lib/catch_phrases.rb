@@ -14,6 +14,6 @@ def link
 end
 
 def darksouls
-  phrase = "Do A Barrel Roll"
+  phrase = "Do A Barrel Roll\n"
   puts phrase
 end
